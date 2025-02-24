@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/product-01.png",
+        "name": "Nike Air Max 90",
+        "description": "Eleve seu estilo com o clássico reinventado. Conforto supremo encontra design inovador.",
+        "assessment": 3.5,
+        "avaliation_quantity": 42,
+        "price": 899.90
+    },
+    {
+        "id": 2,
+        "image": "/assets/product-01.png",
+        "name": "Adidas Ultraboost",
+        "description": "Experimente o máximo em conforto e retorno de energia em cada passada.",
+        "assessment": 0.5,
+        "avaliation_quantity": 120,
+        "price": 1099.90
+    },
+    {
+        "id": 3,
+        "image": "/assets/product-01.png",
+        "name": "Puma RS-X",
+        "description": "Um design retrô-futurista para quem busca estilo e desempenho.",
+        "assessment": 4,
+        "avaliation_quantity": 68,
+        "price": 799.90
+    },
+    {
+        "id": 4,
+        "image": "/assets/product-01.png",
+        "name": "New Balance 574",
+        "description": "Icônico e versátil, perfeito para o dia a dia com conforto e durabilidade.",
+        "assessment": 2.5,
+        "avaliation_quantity": 85,
+        "price": 749.90
+    },
+    {
+        "id": 5,
+        "image": "/assets/product-01.png",
+        "name": "Asics Gel-Kayano 29",
+        "description": "Máximo suporte e estabilidade para corridas de alto desempenho.",
+        "assessment": 0,
+        "avaliation_quantity": 95,
+        "price": 1199.90
+    }
+]
