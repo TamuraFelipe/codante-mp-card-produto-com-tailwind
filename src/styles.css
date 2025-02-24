@@ -5,14 +5,17 @@
 
     --text-title: 24px;
     --text-title-desktop: 42px;
-    --text-description: 14px;
+    --text-description: 12px;
     --text-description-desktop: 20px;
+    --text-price: 20px;
+    --text-price-desktop: 40px;
 
     --shadow-card: 4px 4px 4px rgba(0, 4, 4, 0.25);
     --border-card: rgba(0, 4, 4, 0.25);
 
     --w-teste: calc(50% - var(--spacing));
 
+    
     
 }
 :root {
