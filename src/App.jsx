@@ -17,7 +17,7 @@ function App() {
   }, []);
 
   return (
-    <section className="container mx-auto p-2">
+    <section className="container mx-auto p-0.5 md:p-2">
       <h1 className="text-2xl font-bold mb-1">Produtos</h1>
       <div className="flex flex-wrap gap-[36px]">
       {products.length > 0 ? (
