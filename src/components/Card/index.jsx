@@ -11,7 +11,7 @@ const Card = ({image, name, description, assessment, avaliation_quantity, price}
         <div className="p-0.5 xl:p-2.5">
             <h2 className="text-black text-title xl:text-title-desktop font-bold mb-0.5">{name}</h2>
             <p className="text-description xl:text-description-desktop mb-0.5 font-medium">{description}</p>
-            <div className="flex flex-col md:flex-row items-center gap-0.5 mb-0.5">
+            <div className="flex items-center gap-0.5 mb-0.5">
                 <StarRating rating={assessment} /> 
                 <span className="text-description xl:text-description-desktop text-neutral-500">({avaliation_quantity} avaliações)</span>
             </div>
